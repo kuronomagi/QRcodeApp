@@ -34,6 +34,7 @@ export default class App extends Component<Props> {
             <Text style={styles.buttonText}>再アクティブ</Text>
           </TouchableOpacity>
         }
+        showMarker={'boolean'}
       />
     );
   }
