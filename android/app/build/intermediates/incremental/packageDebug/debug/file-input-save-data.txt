@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Aug 16 17:03:55 JST 2018
+#Thu Aug 16 17:41:08 JST 2018
 17.baseType=DIRECTORY
 4.path=classes.dex
 25.base=/Users/kuronomagi/Desktop/react-native-apps/QR_code/react-native-qrcode-scanner-test/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
